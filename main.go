@@ -24,6 +24,7 @@ func main() {
 		j = j + 1
 		if j == c {
 			fmt.Println(j)
+			fmt.Println("test git")
 			break
 		}
 	}
