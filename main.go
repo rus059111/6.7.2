@@ -24,11 +24,9 @@ func main() {
 		j = j + 1
 		if j == c {
 			fmt.Println(j)
-<<<<<<< HEAD
-			fmt.Println("test git111111")
-=======
-			fmt.Println("test git22222")
->>>>>>> refs/remotes/origin/master
+
+			fmt.Println("test git22222333")
+
 			break
 		}
 	}
