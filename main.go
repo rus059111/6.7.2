@@ -25,7 +25,7 @@ func main() {
 		if j == c {
 			fmt.Println(j)
 
-			fmt.Println("test git22222333")
+			fmt.Println("test git22222333git add")
 
 			break
 		}
